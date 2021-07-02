@@ -4,7 +4,7 @@
 # De novo spatiotemporal modelling of cell-type signatures in the developmental human heart 
 
 This repository contains a collection of code scripts and python notebooks for reproducing analyses and results from the original publication [1].
-Instruction and code for training the spage2vec on the in situ sequencing data can be found in (spage2vec-pytorch-geometric). Analysis notebooks to reproduce results and figures can be found in 
+Instructions and code for training spage2vec on the in situ sequencing data can be found in [`spage2vec-pytorch-geometric`](spage2vec-pytorch-geometric). Analysis notebooks to reproduce results and figures can be found in [`notebooks`](notebooks).
 
 Dependency: SpaGE (https://github.com/tabdelaal/SpaGE).
 
