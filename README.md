@@ -1,5 +1,5 @@
 <!--[![bioRxiv shield](https://img.shields.io/badge/bioRxiv-10.1101/765842-red.svg)](https://doi.org/10.1101/2020.02.12.945345)-->
-<!--[![DOI](https://zenodo.org/badge/239975864.svg)](https://zenodo.org/badge/latestdoi/239975864)-->
+[![DOI](https://zenodo.org/badge/382357957.svg)](https://zenodo.org/badge/latestdoi/382357957)
 
 # De novo spatiotemporal modelling of cell-type signatures in the developmental human heart 
 
